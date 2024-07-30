@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+.c1{
+    
+    margin: auto;
+    border: 5px red solid;
+    animation: movement 10s linear;
+}
+@keyframes movement{
+    0%{
+        height: 0%;
+        width: 0%;
+    }
+    10%
+    {
+        height: 10%;
+        width: 10%;
+    }
+    20%
+    {
+        height: 20%;
+        width: 20%;
+    }
+    30%
+    {
+        height: 30%;
+        width: 30%;
+    }
+    40%
+    {
+        height: 40%;
+        width: 40%;
+    }
+    50%
+    {
+        height: 50%;
+        width: 50%;
+    }
+    60%
+    {
+        height: 60%;
+        width: 60%;
+    }
+    70%
+    {
+        height: 70%;
+        width: 70%;
+    }
+    80%
+    {
+        height: 80%;
+        width: 80%;
+    }
+    90%
+    {
+        height: 90%;
+        width: 90%;
+    }
+    100%
+    {
+        height: 100%;
+        width: 100%;
+    }
+}
